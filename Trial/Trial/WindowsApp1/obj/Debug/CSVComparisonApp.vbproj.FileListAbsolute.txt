@@ -1,0 +1,17 @@
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.vbprojAssemblyReference.cache
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.vbproj.GenerateResource.cache
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.vbproj.CoreCompileInputs.cache
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.CSVComparison.resources
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.Resources.resources
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\bin\Debug\CSVComparisonApp.exe.config
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\bin\Debug\CSVComparisonApp.exe.manifest
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\bin\Debug\CSVComparisonApp.application
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\bin\Debug\CSVComparisonApp.exe
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\bin\Debug\CSVComparisonApp.pdb
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\bin\Debug\CSVComparisonApp.xml
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.TrustInfo.xml
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.exe.manifest
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.application
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.exe
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.xml
+C:\Users\Jethro Abbaro\Desktop\Trial\Trial\WindowsApp1\obj\Debug\CSVComparisonApp.pdb
